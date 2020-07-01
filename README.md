@@ -43,14 +43,6 @@ When 2 nouns come together, the 2nd will be lenited
 
 Table
 
-### Past Tense
-Regular verbs get a séimhiú when they indicate past tense
-
-11 Irregular Verbs
-
-### Present Tense
-
-### Future Tense
 
 ### DeNTaLS rule ( aka **D**o**N**'t **T**ell **L**ong **S**tories Rule )
 Lenition doesn't occur between 2 nouns when the firs ends and the second one starts with D,N,T,L or S.
@@ -67,3 +59,17 @@ Lord's Prayer
 Ar n-Áthair
 
 ag an ngeata
+
+
+
+## Tenses
+
+
+### Past Tense
+Regular verbs get a séimhiú when they indicate past tense
+
+11 Irregular Verbs
+
+### Present Tense
+
+### Future Tense
