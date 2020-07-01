@@ -20,6 +20,7 @@ Duolingo
 
 Motherfocloir Podcast especially episode #23 talking about 
 - Episode #23 Séimhiú
+- Episode #50 Modh Coinníollach ( conditionals )
 
 ***
 
